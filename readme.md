@@ -2,7 +2,7 @@ CICD project commissioned by japanese rest at NTP.
 Started with HTML, CSS and JS for the webpage. 
 Innovating and developing all at once.
 There are more functions needed to improve the functionality.
-Webpage under testing!
+The webpage under testing!
 
 
 <!DOCTYPE html>
